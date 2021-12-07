@@ -1,5 +1,5 @@
 # R_games
-Various projects in R
+Basic games made in R console
 
 
 **Memory game**
